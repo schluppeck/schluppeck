@@ -4,18 +4,12 @@
 
 - I had a short but very cool stint at the *Financial Times* as a British Science Assocation Media fellow - and [published some articles there](https://www.ft.com/search?q=denis+schluppeck)
 - [Make West Bridgford 20mph](https://schluppeck.github.io/make-wb-20mph) - I am trying to get my town to adopt a 20mph default speed limit. Twenty is Plenty!
-- my [github.com profile](https://github.com/schluppeck) has several teaching related repos, including the material for some courses:
-  + [Learning Matlab](https://schluppeck.github.io/learningMatlab) and
-  + [Data analysis for Matlab](https://schluppeck.github.io/dafni)
-  + [Experimental Design for Functional Imaging](https://schluppeck.github.io/edffi)
-  + an interactive explainer of [population receptive field mapping 9pRF)][https://schluppeck.github.io/prf-explainer/]
-  + a collection of [Julia/Pluto.jl notebooks](https://schluppeck.github.io/hands-on-brain-data/) for teaching an "Intro to brain imaging" course
-
+- I have several teaching related repos, including the material for some courses: [Learning Matlab](https://schluppeck.github.io/learningMatlab), [Data analysis for Matlab](https://schluppeck.github.io/dafni), [Experimental Design for Functional Imaging](https://schluppeck.github.io/edffi), an interactive explainer of [population receptive field mapping (pRF)](https://schluppeck.github.io/prf-explainer/), a collection of [Julia/Pluto.jl notebooks](https://schluppeck.github.io/hands-on-brain-data/) for teaching an "Intro to brain imaging" course
 - [my staff/lab page](https://schluppeck.github.io/ds1) for the University of Nottingham
 - publications on [google scholar](https://scholar.google.co.uk/citations?user=Av506w8AAAAJ&hl=en)
 - sometimes, I tweet as [@schluppeck](https://twitter.com/schluppeck)
 
-### Some tools I like... 
+### Some tools I like include... 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-plain-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;

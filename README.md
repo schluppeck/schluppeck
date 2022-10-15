@@ -9,7 +9,7 @@
 - publications on [google scholar](https://scholar.google.co.uk/citations?user=Av506w8AAAAJ&hl=en)
 - sometimes, I tweet as [@schluppeck](https://twitter.com/schluppeck)
 
-### Some tools I like include... 
+### Some of the tools I like include... 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-plain-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
